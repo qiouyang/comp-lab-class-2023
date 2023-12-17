@@ -1,0 +1,11 @@
+,smiles,ROMol,Optimized_Energy
+0,C=C,<rdkit.Chem.rdchem.Mol object at 0x7f4b65d40a50>,-78.03876941199391
+1,C=O,<rdkit.Chem.rdchem.Mol object at 0x7f4b65d409e0>,-113.86953646663872
+2,C#N,<rdkit.Chem.rdchem.Mol object at 0x7f4b65d40900>,-92.87694247777826
+3,CCO,<rdkit.Chem.rdchem.Mol object at 0x7f4b65d40890>,-154.08991870589415
+4,CCC(=O)O,<rdkit.Chem.rdchem.Mol object at 0x7f4b65d406d0>,-266.8589851538825
+5,CN=C=O,<rdkit.Chem.rdchem.Mol object at 0x7f4b65d40820>,-206.79559263929264
+6,C1=CCC=CC1,<rdkit.Chem.rdchem.Mol object at 0x7f4b65d407b0>,-231.8467615602118
+7,C1=CC=CC=C1,<rdkit.Chem.rdchem.Mol object at 0x7f4b65d40270>,-230.7135235390796
+8,C1=C(C)C=CC=C1,<rdkit.Chem.rdchem.Mol object at 0x7f4b65d40510>,-269.7535521637227
+9,C1CCC2CCCCC2C1,<rdkit.Chem.rdchem.Mol object at 0x7f4b65ce1190>,-389.20484223772837
