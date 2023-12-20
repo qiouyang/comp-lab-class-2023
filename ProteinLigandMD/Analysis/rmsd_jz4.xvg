@@ -1,0 +1,34 @@
+# This file was created Wed Dec 20 14:57:08 2023
+# Created by:
+#                       :-) GROMACS - gmx rms, 2020.4 (-:
+# 
+# Executable:   /share/apps/gromacs/2020.4/openmpi/intel/bin/gmx_mpi
+# Data prefix:  /share/apps/gromacs/2020.4/openmpi/intel
+# Working dir:  /scratch/work/courses/CHEM-GA-2671-2023fa/students/qo210/comp-lab-class-2023/FinalProject_new
+# Command line:
+#   gmx_mpi rms -s em.tpr -f md_0_10_center.xtc -n index.ndx -tu ns -o rmsd_jz4.xvg
+# gmx rms is part of G R O M A C S:
+#
+# GROningen MAchine for Chemical Simulation
+#
+@    title "RMSD"
+@    xaxis  label "Time (ns)"
+@    yaxis  label "RMSD (nm)"
+@TYPE xy
+@ subtitle "JZ4_Heavy after lsq fit to Backbone"
+   0.0000000    0.0292490
+   0.0100000    0.0557133
+   0.0200000    0.0589887
+   0.0300000    0.0460633
+   0.0400000    0.0531171
+   0.0500000    0.1260871
+   0.0600000    0.0725762
+   0.0700000    0.0907882
+   0.0800000    0.0993041
+   0.0900000    0.1827694
+   0.1000000    0.1852796
+   0.1100000    0.1727360
+   0.1200000    0.1717634
+   0.1300000    0.0928235
+   0.1400000    0.0793375
+   0.1500000    0.1057203

@@ -1,0 +1,33 @@
+# This file was created Wed Dec 20 14:07:44 2023
+# Created by:
+#                     :-) GROMACS - gmx distance, 2020.4 (-:
+# 
+# Executable:   /share/apps/gromacs/2020.4/openmpi/intel/bin/gmx_mpi
+# Data prefix:  /share/apps/gromacs/2020.4/openmpi/intel
+# Working dir:  /scratch/work/courses/CHEM-GA-2671-2023fa/students/qo210/comp-lab-class-2023/FinalProject_new
+# Command line:
+#   gmx_mpi distance -s md_0_10.tpr -f md_0_10_center.xtc -select 'resname "JZ4" and name OAB plus resid 102 and name OE1' -oall
+# gmx distance is part of G R O M A C S:
+#
+# GROtesk MACabre and Sinister
+#
+@    title "Distance"
+@    xaxis  label "Time (ps)"
+@    yaxis  label "Distance (nm)"
+@TYPE xy
+      0.000    0.309
+     10.000    0.381
+     20.000    0.341
+     30.000    0.379
+     40.000    0.560
+     50.000    0.741
+     60.000    0.484
+     70.000    0.567
+     80.000    0.676
+     90.000    0.777
+    100.000    0.682
+    110.000    0.755
+    120.000    0.829
+    130.000    0.584
+    140.000    0.682
+    150.000    0.631

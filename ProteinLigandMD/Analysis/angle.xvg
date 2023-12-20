@@ -1,0 +1,33 @@
+# This file was created Wed Dec 20 14:48:35 2023
+# Created by:
+#                      :-) GROMACS - gmx angle, 2020.4 (-:
+# 
+# Executable:   /share/apps/gromacs/2020.4/openmpi/intel/bin/gmx_mpi
+# Data prefix:  /share/apps/gromacs/2020.4/openmpi/intel
+# Working dir:  /scratch/work/courses/CHEM-GA-2671-2023fa/students/qo210/comp-lab-class-2023/FinalProject_new
+# Command line:
+#   gmx_mpi angle -f md_0_10_center.xtc -n index.ndx -ov angle.xvg
+# gmx angle is part of G R O M A C S:
+#
+# Gallium Rubidium Oxygen Manganese Argon Carbon Silicon
+#
+@    title "Average Angle: JZ4_&_OAB_H12_Protein_&_r_102_&_OE1"
+@    xaxis  label "Time (ps)"
+@    yaxis  label "Angle (degrees)"
+@TYPE xy
+   0.00000   149.455
+  10.00000   139.387
+  20.00000   132.198
+  30.00000   142.792
+  40.00000   105.984
+  50.00000   132.507
+  60.00000   135.503
+  70.00000   152.844
+  80.00000   144.582
+  90.00000   143.383
+ 100.00000   149.477
+ 110.00000   146.850
+ 120.00000   136.832
+ 130.00000   144.915
+ 140.00000    60.821
+ 150.00000    78.181
